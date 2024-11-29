@@ -1,0 +1,61 @@
+<svg width="32.655762" height="24.000000" viewBox="0 0 32.6558 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip7_736">
+			<rect id="figma " width="16.090914" height="24.000000" transform="translate(8.125000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_745">
+			<rect id="sketch" width="26.400005" height="24.000000" transform="translate(2.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_747">
+			<rect id="logo 1" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_749">
+			<rect id="avacode" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_752">
+			<rect id="photoshop " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_762">
+			<rect id="zeplin " width="30.144009" height="24.000000" transform="translate(1.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_766">
+			<rect id="invision " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_780">
+			<rect id="html " width="16.956522" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_786">
+			<rect id="css-3 " width="17.174314" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_789">
+			<rect id="javascript " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_791">
+			<rect id="sass " width="32.655739" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_794">
+			<rect id="git-icon " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_801">
+			<rect id="gulp " width="10.871794" height="24.000000" transform="translate(10.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_803">
+			<rect id="wordpress logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_806">
+			<rect id="bitrix-1 logo" width="23.887417" height="24.000000" transform="translate(4.488037 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_808">
+			<rect id="codeigniter-plain logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="invision " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip7_766)">
+		<path id="Path" d="M25.82 0L6.17 0C4.97 0 4 0.97 4 2.17L4 21.82C4 23.02 4.97 24 6.17 24L25.82 24C27.02 24 28 23.02 28 21.82L28 2.17C28 0.97 27.02 0 25.82 0Z" fill="#DC395F" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Path" d="M12.02 7.55C12.81 7.55 13.48 6.92 13.48 6.1C13.48 5.28 12.81 4.66 12.02 4.66C11.22 4.66 10.55 5.28 10.55 6.1C10.55 6.92 11.22 7.55 12.02 7.55Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M8.98 15.28C8.89 15.65 8.85 16.04 8.85 16.37C8.85 17.64 9.54 18.48 11 18.48C12.22 18.48 13.2 17.76 13.91 16.6L13.48 18.34L15.9 18.34L17.28 12.8C17.62 11.4 18.29 10.67 19.3 10.67C20.1 10.67 20.6 11.17 20.6 11.99C20.6 12.22 20.57 12.48 20.49 12.76L19.78 15.31C19.67 15.67 19.63 16.04 19.63 16.39C19.63 17.59 20.34 18.48 21.82 18.48C23.1 18.48 24.11 17.66 24.67 15.7L23.72 15.33C23.25 16.64 22.84 16.88 22.51 16.88C22.19 16.88 22.02 16.67 22.02 16.24C22.02 16.04 22.06 15.83 22.13 15.57L22.82 13.09C22.99 12.51 23.05 11.99 23.05 11.52C23.05 9.66 21.93 8.69 20.57 8.69C19.3 8.69 18.01 9.84 17.36 11.05L17.84 8.88L14.15 8.88L13.63 10.79L15.36 10.79L14.29 15.04C13.46 16.9 11.93 16.93 11.74 16.88C11.42 16.81 11.22 16.69 11.22 16.28C11.22 16.05 11.26 15.71 11.37 15.3L12.99 8.88L8.89 8.88L8.37 10.79L10.08 10.79L8.98 15.28Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

@@ -1,0 +1,67 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "image": "./img/image/project-1.png",
+      "title": "Backend + Верстка",
+      "info": "Папа Карло",
+      "desc": " Разрабатываем надежный бэкенд с использованием современных CMS и Framework."
+    },
+    {
+      "id": 2,
+      "image": "./img/image/project-2.png",
+      "title": "Backend",
+      "info": "Чистиков",
+      "desc": " Разрабатываем надежный бэкенд с использованием современных CMS и Framework."
+    },
+    {
+      "id": 3,
+      "image": "./img/image/project-3.png",
+      "title": "Верстка",
+      "info": "Fashion Furniture",
+      "desc": " Разрабатываем надежный бэкенд с использованием современных CMS и Framework."
+    },
+    {
+      "id": 4,
+      "image": "./img/image/project-4.png",
+      "title": "Backend",
+      "info": "Тульский завод",
+      "desc": " Разрабатываем надежный бэкенд с использованием современных CMS и Framework."
+    },
+    {
+      "id": 5,
+      "image": "./img/image/project-5.png",
+      "title": "Backend",
+      "info": "Интекс СВ",
+      "desc": " Разрабатываем надежный бэкенд с использованием современных CMS и Framework."
+    },
+    {
+      "id": 6,
+      "image": "./img/image/project-6.png",
+      "title": "Backend + Верстка",
+      "info": "IQ Glass",
+      "desc": " Разрабатываем надежный бэкенд с использованием современных CMS и Framework."
+    },
+    {
+      "id": 7,
+      "image": "./img/image/project-7.png",
+      "title": "Backend",
+      "info": "KEO",
+      "desc": " Разрабатываем надежный бэкенд с использованием современных CMS и Framework."
+    },
+    {
+      "id": 8,
+      "image": "./img/image/project-8.png",
+      "title": "Верстка",
+      "info": "Лаборатория Кофе",
+      "desc": " Разрабатываем надежный бэкенд с использованием современных CMS и Framework."
+    },
+    {
+      "id": 9,
+      "image": "./img/image/project-9.png",
+      "title": "Backend",
+      "info": "Locol",
+      "desc": " Разрабатываем надежный бэкенд с использованием современных CMS и Framework."
+    }
+  ]
+}

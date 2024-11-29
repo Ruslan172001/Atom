@@ -1,0 +1,126 @@
+.blog__quiz {
+}
+.container {
+}
+.blog__quiz-container {
+  max-width: 1352px;
+  padding-top: 73px;
+  padding-bottom: 118px;
+}
+.blog__quiz-content {
+  display: flex;
+  flex-direction: row;
+
+  align-items: start;
+  gap: 145px;
+
+  @include tablet {
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+  }
+}
+.blog__quiz-title {
+  max-width: 503px;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: -1.68px;
+  display: flex;
+  flex-direction: column;
+}
+.quiz__form {
+}
+.quiz__form-title {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -0.64px;
+  margin-bottom: 36px;
+}
+.quiz__form-form {
+}
+.quiz__form-item {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: -0.32px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.quiz__form-item input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 24px;
+  width: 24px;
+  background-color: $color-text;
+  border-radius: 50%;
+}
+.quiz__form-item:hover input ~ .checkmark {
+  background-color: $text-color-mid;
+}
+.quiz__form-item input:checked ~ .checkmark {
+  background-color: $color-accent;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.quiz__form-item input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.quiz__form-item .checkmark:after {
+  top: 6px;
+  left: 6px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--card-bg);
+}
+.quiz__form-input {
+}
+.quiz__form-label {
+}
+.text-animation {
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: -1.68px;
+  display: flex;
+  flex-direction: column;
+  color: $color-text; /* Основной цвет текста */
+  @include tablet {
+    font-size: 48px;
+  }
+}
+
+.word {
+  transition: color 0.5s ease, opacity 0.5s ease;
+}
+
+.word.active {
+  color: $color-accent; /* Цвет активного элемента */
+  opacity: 1; /* Активный текст полностью видим */
+}

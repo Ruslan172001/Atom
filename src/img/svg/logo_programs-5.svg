@@ -1,0 +1,66 @@
+<svg width="32.655762" height="24.000000" viewBox="0 0 32.6558 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip7_412">
+			<rect id="figma " width="16.090914" height="24.000000" transform="translate(8.125000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_421">
+			<rect id="sketch" width="26.400005" height="24.000000" transform="translate(2.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_423">
+			<rect id="logo 1" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_425">
+			<rect id="avacode" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_428">
+			<rect id="photoshop " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_438">
+			<rect id="zeplin " width="30.144009" height="24.000000" transform="translate(1.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_442">
+			<rect id="invision " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_456">
+			<rect id="html " width="16.956522" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_462">
+			<rect id="css-3 " width="17.174314" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_465">
+			<rect id="javascript " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_467">
+			<rect id="sass " width="32.655739" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_470">
+			<rect id="git-icon " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_477">
+			<rect id="gulp " width="10.871794" height="24.000000" transform="translate(10.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_479">
+			<rect id="wordpress logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_482">
+			<rect id="bitrix-1 logo" width="23.887417" height="24.000000" transform="translate(4.488037 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_484">
+			<rect id="codeigniter-plain logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="zeplin " width="30.144009" height="24.000000" transform="translate(1.000000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip7_438)">
+		<path id="Vector" d="M5.64 16.54L4.06 17.12L3.98 21.79L9.44 19.8C7.57 19.18 6.2 18.08 5.64 16.54Z" fill="#FDBD39" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M6.47 11.6L1 13.59L4.06 17.12L5.64 16.54C5.09 15.02 5.43 13.29 6.47 11.6Z" fill="#F69833" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M15.67 4.86C8.71 7.39 4.21 12.62 5.64 16.54L30.87 7.36C29.44 3.44 22.64 2.32 15.67 4.86Z" fill="#FECF33" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M20.84 19.05C27.81 16.51 32.31 11.3 30.87 7.36L5.64 16.54C7.08 20.48 13.87 21.58 20.84 19.05Z" fill="#EE6723" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M30.87 7.36L5.64 16.54C6.14 17.9 8.02 18.57 10.66 18.57C13.24 18.57 16.54 17.93 19.98 16.68C26.95 14.15 31.85 10.04 30.87 7.36Z" fill="#F69833" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M25.85 5.34C23.27 5.34 19.97 5.97 16.53 7.22C9.57 9.76 4.67 13.86 5.64 16.54L30.87 7.36C30.38 6 28.49 5.34 25.85 5.34Z" fill="#FDBD39" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M24.46 22.04C23.71 22.04 22.62 21.37 21.2 20.05C19.52 18.49 17.6 16.21 15.79 13.62C13.98 11.04 12.49 8.45 11.6 6.34C10.63 4.05 10.49 2.63 11.19 2.14C11.35 2.03 11.54 1.98 11.74 1.98C12.3 1.98 13.41 2.4 15.46 4.41L15.5 4.45L15.5 4.52C15.48 4.66 15.47 4.81 15.46 4.95L15.44 5.23L15.24 5.03C13.03 2.82 12.06 2.58 11.75 2.58C11.66 2.58 11.58 2.6 11.53 2.63C11.23 2.85 11.21 3.88 12.15 6.11C13.03 8.18 14.49 10.73 16.28 13.28C18.07 15.84 19.96 18.08 21.61 19.61C23.39 21.26 24.19 21.44 24.45 21.44C24.54 21.44 24.61 21.42 24.67 21.39C24.98 21.16 24.98 20.05 23.93 17.65L23.89 17.54L23.99 17.49C24.1 17.43 24.2 17.37 24.29 17.32L24.42 17.25L24.48 17.38C25.22 19.08 25.92 21.24 25.01 21.88C24.85 21.99 24.65 22.04 24.46 22.04ZM24.46 21.77L24.46 21.91L24.46 21.77Z" fill="#EE6723" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M21.01 18.98L21 19.1C20.82 21.28 20.36 23.89 19.15 23.99C19.12 23.99 19.1 23.99 19.07 23.99C18.25 23.99 17.47 22.82 16.76 20.51C16.09 18.32 15.57 15.38 15.29 12.24C15.02 9.09 15.02 6.11 15.31 3.84C15.61 1.36 16.2 0.07 17.05 0C17.07 0 17.1 -0.01 17.13 -0.01C17.72 -0.01 18.62 0.67 19.54 3.8L18.94 3.91C18.63 2.87 18.3 2.02 17.97 1.43C17.66 0.89 17.36 0.59 17.13 0.59C17.12 0.59 17.11 0.59 17.1 0.59C16.73 0.63 16.2 1.51 15.9 3.91C15.62 6.14 15.62 9.08 15.89 12.19C16.16 15.29 16.67 18.19 17.34 20.33C17.63 21.3 17.96 22.09 18.28 22.63C18.57 23.12 18.85 23.4 19.07 23.4C19.08 23.4 19.09 23.4 19.1 23.39C19.45 23.37 20.11 22.44 20.39 19.18L21.01 18.98Z" fill="#EE6723" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

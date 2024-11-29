@@ -1,0 +1,132 @@
+.services {
+  margin-bottom: 118px;
+}
+.container {
+}
+.services__title {
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: -1.68px;
+  text-align: center;
+  margin-bottom: 80px;
+  margin-top: 0;
+}
+.services__content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.services__card {
+  display: flex;
+  flex-direction: column;
+  max-width: 648px;
+  height: 416px;
+  padding: 48px;
+  @include tablet {
+    height: auto;
+    padding: 24px;
+  }
+}
+.background-card {
+  background-color: var(--card-bg);
+}
+.services__card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+.card__header-title {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -0.64px;
+}
+.title-opacity {
+  color: $color-text;
+}
+.card__header-price {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0%;
+  padding: 8px 16px;
+  background-color: var(--bg-color);
+  border-radius: 8px;
+}
+.span-bg {
+  background-color: var(--card-bg);
+}
+.services__card-info {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: -0.72px;
+  color: $text-color-mid;
+}
+.services__card-content {
+  display: flex;
+  gap: 48px;
+  margin-top: 24px;
+  @include mobile {
+    gap: 16px;
+    flex-direction: column;
+    margin-bottom: 20px;
+    margin-top: 5px;
+  }
+}
+.services__card-program {
+}
+.card__program-title {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: -0.72px;
+  margin-bottom: 16px;
+  color: $text-color-mid;
+}
+.card__program-list {
+  display: flex;
+  gap: 8px;
+}
+.card__program-item {
+}
+.services__card-technology {
+}
+.card__technology-title {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: -0.72px;
+  margin-bottom: 16px;
+  color: $text-color-mid;
+}
+.card__technology-list {
+  display: flex;
+  gap: 8px;
+}
+.card__technology-item {
+}
+.card__btn {
+  margin-top: auto;
+  padding-bottom: 11px;
+}
+.services__card-btn {
+  color: inherit;
+  padding: 12px 24px;
+  border-radius: 48px;
+  border: 1px solid $text-color-mid;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: -0.32px;
+  transition: 0.3s ease-in-out;
+  &:hover {
+    color: $color-main;
+    border: 1px solid $color-main;
+  }
+  @include mobile {
+    margin-top: 20px;
+  }
+}

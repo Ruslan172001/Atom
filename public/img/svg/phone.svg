@@ -1,0 +1,13 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip38_5354">
+			<rect id="device / cellphone-line" width="24.000000" height="24.000000" transform=" rotate(-0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip38_5354)">
+		<path id="Vector" d="M7 2L18 2C18.26 2 18.51 2.1 18.7 2.29C18.89 2.48 19 2.73 19 3L19 21C19 21.26 18.89 21.51 18.7 21.7C18.51 21.89 18.26 22 18 22L6 22C5.73 22 5.48 21.89 5.29 21.7C5.1 21.51 5 21.26 5 21L5 0L7 0L7 2ZM7 9L17 9L17 4L7 4L7 9ZM7 11L7 20L17 20L17 11L7 11Z" fill="#536280" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

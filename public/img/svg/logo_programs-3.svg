@@ -1,0 +1,61 @@
+<svg width="32.655762" height="24.000000" viewBox="0 0 32.6558 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip7_1077">
+			<rect id="figma " width="16.090914" height="24.000000" transform="translate(8.125000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1086">
+			<rect id="sketch" width="26.400005" height="24.000000" transform="translate(2.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1088">
+			<rect id="logo 1" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1090">
+			<rect id="avacode" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1093">
+			<rect id="photoshop " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1103">
+			<rect id="zeplin " width="30.144009" height="24.000000" transform="translate(1.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1107">
+			<rect id="invision " width="24.000000" height="24.000000" transform="translate(4.000000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1121">
+			<rect id="html " width="16.956522" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1127">
+			<rect id="css-3 " width="17.174314" height="24.000000" transform="translate(7.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1130">
+			<rect id="javascript " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1132">
+			<rect id="sass " width="32.655739" height="24.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1135">
+			<rect id="git-icon " width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1142">
+			<rect id="gulp " width="10.871794" height="24.000000" transform="translate(10.875000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1144">
+			<rect id="wordpress logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1147">
+			<rect id="bitrix-1 logo" width="23.887417" height="24.000000" transform="translate(4.488037 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip7_1149">
+			<rect id="codeigniter-plain logo" width="24.000000" height="24.000000" transform="translate(4.500000 0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip7_1090)">
+		<rect id="logo 1" width="17.907690" height="24.000000" transform="translate(7.000000 0.000000)" fill="#FFFFFF" fill-opacity="0"/>
+		<g clip-path="url(#clip7_1088)">
+			<path id="Vector" d="M15.95 0C11.37 0 7 8.45 7 14.92C7 19.88 11 23.88 15.95 23.88C20.9 23.88 24.9 19.88 24.9 14.92C24.9 8.45 20.53 0 15.95 0ZM15.95 19.4C13.48 19.4 11.47 17.39 11.47 14.92C11.47 11.6 13.74 7.46 15.95 7.46C18.16 7.46 20.43 11.6 20.43 14.92C20.43 17.39 18.42 19.4 15.95 19.4Z" fill="#00BC87" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+</svg>

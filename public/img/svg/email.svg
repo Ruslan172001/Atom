@@ -1,0 +1,13 @@
+<svg width="24.000000" height="24.000000" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip38_5357">
+			<rect id="bussiness / mail-add-line" width="24.000000" height="24.000000" transform=" rotate(-0.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip38_5357)">
+		<path id="Vector" d="M22 13L20 13L20 7.23L12.07 14.33L4 7.21L4 19L14 19L14 21L3 21C2.73 21 2.48 20.89 2.29 20.7C2.1 20.51 2 20.26 2 20L2 4C2 3.73 2.1 3.48 2.29 3.29C2.48 3.1 2.73 3 3 3L21 3C21.26 3 21.51 3.1 21.7 3.29C21.89 3.48 22 3.73 22 4L22 13ZM4.51 5L12.06 11.66L19.5 5L4.51 5ZM21 18L24 18L24 20L21 20L21 23L19 23L19 20L16 20L16 18L19 18L19 15L21 15L21 18Z" fill="#536280" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

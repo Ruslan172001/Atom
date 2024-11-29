@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat+Alternates:500,600,700");
+body {
+  font-family: $font-main, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: all 0.3s ease;
+}
+.container {
+  max-width: 1920px;
+  padding: 0 40px;
+  margin: 0 auto;
+}
+:root {
+  --bg-color: #111621;
+  --text-color: #e6eeff;
+  --card-bg: #1a2233;
+  --hover-navbar: #1a2233;
+  --decor-line: #1a2233;
+  --bg-dark-btn: #1a2233;
+}
+
+[data-theme="light"] {
+  --bg-color: #fafcff;
+  --text-color: #111621;
+  --card-bg: #f0f1f5;
+  --hover-navbar: #f0f1f5;
+  --decor-line: #f0f1f5;
+  --bg-dark-btn: #6c7993;
+}
+.decor-line {
+  position: relative;
+  z-index: 1;
+  padding: 10px 0;
+  background-image: linear-gradient(
+    to left,
+    var(--decor-line) 1px,
+    transparent 1px
+  );
+  background-size: 216.5px 100%; /* Повторение каждые 216.5px по ширине */
+}
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 80px;
+  height: 40px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--bg-dark-btn);
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 36px;
+  width: 36px;
+  left: 6px;
+  bottom: 2px;
+  background-color: $color-main;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(30px);
+  -ms-transform: translateX(30px);
+  transform: translateX(30px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+@mixin mobile {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}
+@mixin tablet {
+  @media screen and (max-width: 1024px) {
+    @content;
+  }
+}
+@mixin desktop {
+  @media screen and (max-width: 1920px) {
+    @content;
+  }
+}
