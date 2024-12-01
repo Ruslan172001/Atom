@@ -1592,6 +1592,11 @@ legend {
   flex-direction: column;
   color: #3a4459; /* Основной цвет текста */
 }
+@media screen and (max-width: 1024px) {
+  .text-animation {
+    font-size: 48px;
+  }
+}
 
 .word {
   transition: color 0.5s ease, opacity 0.5s ease;
